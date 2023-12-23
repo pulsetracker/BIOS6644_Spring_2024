@@ -5,9 +5,11 @@ Computing Environment Setup & Python Refresher  
 - Python Refresher in Jupyter Notebooks
 
 1) For this course, Jupyter Notebooks are the primary way of communicating results.  "Kernels" are available for Python, R, and many other languages.   
-2) Python is the industry standard language for wrangling data of all types.   If you don't know Python, it is strongly recommended that you learn it over this semester.  
-3) If you are strongly opposed to learning Python, you may do your work in whatever language you prefer, though I can't guarantee I'll be able to help.  In particular, tools which require a license (SAS, MATLAB, etc.) might be a problem.
+2) Python is the industry standard language for wrangling data of all types.   If you don't know Python, it is strongly recommended that you learn it over this semester.  If you are likely to EVER wrangle data again, it's worth the time invested.
+3) Git is the industry standard tool for distributed version control.  It's kind of painful to use, but that's because it enforces rigor for updates and changes.   We'll use git for submitting work.  The workflow you learn doing this will be a good basis for future collaboration.
 ---
+
+- [ ] <--That kind of checkbox indicates a task you should accomplish
 
 ## Setup Github
 - [ ] If you don't already have a [gituhub](www.github.com) account, make one.   
