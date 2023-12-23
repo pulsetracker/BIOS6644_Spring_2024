@@ -58,4 +58,4 @@ Course files might be distributed within github.  To get the latest of everythin
 
 - [ ] Do the pull above..
 
-Chuck
+JimBob
