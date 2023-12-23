@@ -54,9 +54,7 @@ Assignments will often be submitted via github.    For practice, write a brief b
 
 ## Pulling Updates
 Course files might be distributed within github.  To get the latest of everything, run a git pull, then merge the main branch into yours.
-> \> git fetch --all     # pulls other branches
-> 
 > \> git pull origin main:main --rebase # pulls current main and updates your branch with changes
 
-- [ ] Do the fetch/merge above.
+- [ ] Do the pull above.
 
