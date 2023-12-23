@@ -57,4 +57,4 @@ Course files might be distributed within github.  To get the latest of everythin
 > \> git pull origin main:main --rebase # pulls current main and updates your branch with changes
 
 - [ ] Do the pull above
-
+Bob
