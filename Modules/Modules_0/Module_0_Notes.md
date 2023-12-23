@@ -60,5 +60,5 @@ Course files might be distributed within github.  To get the latest of everythin
 > 
 > \> git merge main   # merges contents of main into your branch
 
-- [ ] Do the fetch/merge above.
+- [ ] Do the fetch/merge above..
 
