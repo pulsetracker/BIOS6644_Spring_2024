@@ -19,8 +19,6 @@
 
 3) Git is the industry standard tool for distributed version control.  It's kind of painful to use, but that's because it enforces rigor for updates and changes.   We'll use git for submitting work.  The workflow you learn doing this will be a good basis for future collaboration.
 
-## Python Refresher  
-
 ---
 
 - [ ] <--That kind of checkbox indicates a task you should accomplish
