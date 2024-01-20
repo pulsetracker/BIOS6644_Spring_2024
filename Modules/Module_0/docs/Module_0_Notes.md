@@ -19,8 +19,6 @@
 
 3) Git is the industry standard tool for distributed version control.  It's kind of painful to use, but that's because it enforces rigor for updates and changes.   We'll use git for submitting work.  The workflow you learn doing this will be a good basis for future collaboration.
 
-## Python Refresher  
-
 ---
 
 - [ ] <--That kind of checkbox indicates a task you should accomplish
@@ -28,7 +26,7 @@
 ## Setup Github
 - [ ] If you don't already have a [gituhub](www.github.com) account, make one.   
 - [ ] Send your github username to the instructor via canvas message 
-- [ ] If you're not familiar with Github, watch one of the tutorials such as [this one](https://www.youtube.com/watch?v=tRZGeaHPoaw).
+- [ ] If you're not familiar with Github, watch one of the tutorials such as [this one](https://www.youtube.com/watch?v=tRZGeaHPoaw).  If you're a git power user, watch [this one](https://www.youtube.com/watch?v=Uszj_k0DGsg).  It's pretty great.
 - [ ] Clone the class git repo on to the computer you'll use for this course.
 ```bash
 >  git clone git@github.com:pulsetracker/BIOS6644_Spring_2024.git
