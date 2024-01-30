@@ -31,6 +31,13 @@
 - [ ] Clone the class git repo on to the computer you'll use for this course.
 ```bash
 >  git clone git@github.com:pulsetracker/BIOS6644_Spring_2024.git
+
+I the one above fails (Windows users?), try instead:
+>  git clone https://github.com/BIOS6644/BIOS6644_Spring_2024.git 
+```
+```bash
+> # This "clone" will make a new folder called BIOS6644_Spring_2024
+> cd BIOS6644_Spring_2024   # "change directory" (cd) into it.
 ```
 
 - [ ] Make a branch with your username, and check it out (activate it)
