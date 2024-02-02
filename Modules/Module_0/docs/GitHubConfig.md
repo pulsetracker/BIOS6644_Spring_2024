@@ -3,7 +3,7 @@
 - [ ] Open the following page and select your operating system:
 [link](https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git)
     - This will have you install a github-specific command line tool called gh
-- [ ] From your normal terminal, do
+- [ ] For Windows users, use powershell or cmd to do the following.  For mac & linux, use the regular terminal
 ```bash
 gh auth login
 ```
@@ -18,6 +18,8 @@ gh auth login
 ! First copy your one-time code:...
 ```
 Copy the code and and paste it into the webpage that pops up and follow the rest of the prompts.
+
+This authorization (done via windows cmd or powershell) will work under git-bash with no extra steps.
 
 ## Re-initialize your local repository.
 This is not required, but recommended to make sure we're all on the same setup.
