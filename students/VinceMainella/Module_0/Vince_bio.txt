@@ -1,1 +1,5 @@
-test
+Hello, my name is Vince. I'm a PharmD postdoc and am currently on my second year of fellowship. 
+
+I primarily study antiviral pharmacology but have done adherence tracking and "digital health" research as 
+
+well. I've had some experince data wrangling in Rstudio but none with python. I'm excited to get started, thanks!
