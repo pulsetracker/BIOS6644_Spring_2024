@@ -6,7 +6,8 @@
 # Welcome Back
 - I posted a couple fixes for mistakes I made in the github Module 0 notes
 	- After git clone, there should be a cd BIOS6644_Spring_2024
-	- git push --set-upstream... should be git _branch_ --set-upstream...
+	- ~~git push --set-upstream... should be git _branch_ --set-upstream...~~
+	
 
 - Changed to "Org" for [BIOS6644](https://github.com/BIOS6644/).  Checkout the [cool logo](https://avatars.githubusercontent.com/u/157696253?s=400&u=6c364839304098c985a384be59d3f44db3267b5d&v=4)! (and change hyperlinks if you want)
 
