@@ -49,7 +49,7 @@ For the duration of this course, you should always work within this branch (You 
 
 - [ ] Set the branch with your name as the github default for you
 ```bash
-> git push --set-upstream origin James_King
+> git branch --set-upstream origin James_King
 ```
 
 This makes it so that anytime you add anything, it goes into the branch with your name.  That prevents us from stepping on each other's files.
