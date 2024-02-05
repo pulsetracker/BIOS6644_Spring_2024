@@ -83,7 +83,7 @@ git add .
 git commit -m"Module 0 submissions"
 git push
 ```
-  3) Upload the files via github's web page
+  2) Upload the files via github's web page
     - Dropdown menu--select your branch
     - Navigate to the drop folder
     - Click Add File --> Upload Files
