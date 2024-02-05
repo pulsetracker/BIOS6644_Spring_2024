@@ -1,12 +1,18 @@
 # Setting up authenticated GitHub Access over HTTPS protocol
+Get GithubCLI (command line interface). Reference: [link](https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git#github-cli).  
 
-- [ ] Open the following page and select your operating system:
-[link](https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git#github-cli)
-    - This will have you install a github-specific command line tool called GithubCLI which includes an authentication tool called gh.
-    - On a Mac, I had easy success using then "brew install"  command
-    - On Windows, I had easy success with the "winget " version.
-    - The conda install version was problematic for at least one student
+Try the following first:
 - [ ] For Windows users, use powershell or cmd to do the following.  For mac & linux, use the regular terminal
+- Mac
+```bash
+   brew install gh
+```
+- Windows
+```powershell
+  winget install --id GitHub.cli
+```
+
+After GitHub CLI is installed, run:
 ```bash
 gh auth login
 ```
